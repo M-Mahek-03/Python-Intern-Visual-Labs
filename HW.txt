@@ -1,0 +1,34 @@
+Niven Number
+Noen Number
+Automorphic Number
+Armstrong Number
+Special Number
+Spy Number
+Perfect Number
+Happy Number*
+isPrime Number
+Buzz Number
+
+Create a list of numbers and check how many them are prime numbers
+mutable or in mutable
+WAP to print fibonacci series upto 100 using functions
+WAP to find a factoria l of a given number using functions
+WAP to pass a list to a function and print a the sum of element in the list
+WAP to pass a list to a fn reverse the list manualy and return the list.
+WAP to build a menu driven calcualtor if else ladder 
+#What is numpy.
+
+Try creating timetable in html 
+5 days ka timetable with 8 lecture.
+single page application
+
+<iframe width="950" height="534" src="https://www.youtube.com/embed/DbWbmTJXzeM" 
+title="Pasoori - Ali Sethi x Shae Gill | vibe lyrics #shaegill 
+#alisethi #cokestudio" frameborder="0" allow="accelerometer; 
+autoplay; clipboard-write; encrypted-media;
+ gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ k-Means Clustering Algorithm
+
+ Create a excel file and read on panda
+ 

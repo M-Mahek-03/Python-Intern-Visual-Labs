@@ -1,0 +1,9 @@
+My name is Hanju
+i love python , python is a beautiful language.
+in python we can do no of libraries
+for example numpy , panda , matplotlib, seaborn, scipy etc.
+Python makes things easy.
+
+Python is amazing
+ Python is cool
+ Python is easy and simple to learn
